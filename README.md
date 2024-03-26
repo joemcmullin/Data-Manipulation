@@ -12,11 +12,11 @@ The code consists of two primary components:
 ### Data Generation
 
 The dataset is generated with the following columns:
-- `size`: Categorical column with values 'big', 'medium', 'small'.
+- `size`: Categorical column with values 'large', 'medium', 'small'.
 - `age`: Integer column with values between 1 and 50.
-- `team`: Categorical column with values 'red', 'blue', 'yellow', 'green'.
+- `team`: Categorical column with values 'red', 'white', 'blue', 'gold'.
 - `win`: Boolean column with values True or False.
-- `date`: Datetime column with dates ranging from 2020-01-01 to 2022-12-31.
+- `date`: Datetime column with dates ranging from 2021-01-01 - 2023-12-31.
 - `prob`: Floating-point column with values between 0 and 1.
 
 ### I/O Operations and Timing
