@@ -37,10 +37,9 @@ The measured times are visualized in two horizontal bar charts:
 
 The charts use shades of red to distinguish between the times, with darker shades indicating longer durations.
 
-![image](https://github.com/joemcmullin/Data-read-write-speeds/assets/3474363/f5c401bf-c9df-4bfc-945e-109e50d325f9)
-
-
-![image](https://github.com/joemcmullin/Data-read-write-speeds/assets/3474363/e18520d9-9c05-4f88-a0c7-686ac9b476ca)
+<img src="https://github.com/joemcmullin/Data-read-write-speeds/assets/3474363/f5c401bf-c9df-4bfc-945e-109e50d325f9" width="50%"/>
+</br>
+<img src="https://github.com/joemcmullin/Data-read-write-speeds/assets/3474363/e18520d9-9c05-4f88-a0c7-686ac9b476ca" width="50%" />
 
 
 ## Dependencies →
@@ -54,7 +53,7 @@ The charts use shades of red to distinguish between the times, with darker shade
 ## How to Run 🏃🏻‍♂️
 
 1. Ensure all dependencies are installed in your Python environment.
-2. Copy the code into a Jupyter Notebook cell.
+2. Copy the code into a Jupyter Notebook cell. Or just pull the Juypter Notebook. 🙂
 3. Run the cell to execute the data generation, I/O operations, timing measurements, and visualization.
 
 ## Interpretation of Results 
